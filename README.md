@@ -91,12 +91,13 @@ images/
 ├── forecast.png
 
 📸 Screenshots
-🌍 Satellite Climate View
-![Dashboard](images/satellite_climate_view.png)
+
 📈 Temperature Trend
 ![Trend](images/temperature_trend.png)
 ⚠️ Anomaly Detection
 ![Anomaly](images/anomaly_detection.png)
+🌍 Satellite Climate View
+![Dashboard](images/satellite_climate_view.png)
 🔮 Forecasting
 ![Forecast](images/climate_forecast.png)
 
